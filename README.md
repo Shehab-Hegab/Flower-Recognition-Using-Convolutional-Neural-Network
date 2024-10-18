@@ -26,3 +26,5 @@ Found 776 images belonging to 5 classes.
  {'daisy': 0, 'dandelion': 1, 'rose': 2, 'sunflower': 3, 'tulip': 4}
 
 ##
+
+![image](https://github.com/user-attachments/assets/36284110-60f1-4b59-b88d-5f87950b49d6)
