@@ -24,3 +24,5 @@ Found 776 images belonging to 5 classes.
 ##
 
  {'daisy': 0, 'dandelion': 1, 'rose': 2, 'sunflower': 3, 'tulip': 4}
+
+##
